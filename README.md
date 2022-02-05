@@ -1,1 +1,1 @@
-# challenge-6
+# Challenge 6 repo & submission files
