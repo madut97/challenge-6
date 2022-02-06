@@ -1,1 +1,1 @@
-# challenge-6
+# Repo for challenge #6
